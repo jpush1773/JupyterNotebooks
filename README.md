@@ -2,6 +2,4 @@
 
 This repository will store Jupyter Notebooks.
 
-https://hub.mybinder.org/user/jpush1773-jupyternotebooks-h92k9qzg/notebooks/JNsample09-14-2018jpush.ipynb#
-
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jpush1773/JupyterNotebooks.git/master)
